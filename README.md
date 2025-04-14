@@ -8,7 +8,7 @@ Team Member(s):
 - Include photos that describe your system.
 - Include a descriptive caption for each image.
 
-![](/img/board1.jpg)
+![Alt text](img/board1.jpg)
 
 # Schematics and Block Diagrams
 
