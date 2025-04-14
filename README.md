@@ -3,18 +3,17 @@ Team Member(s):
 
 - Write up a paragraph or two that describes your final hack's objective, and all its sensors and actuators.
 
-# System Photos
-
-- Include photos that describe your system in the img directory.
-- Include a descriptive caption for each image.
-
-![Alt text (appears when hovering mouse over)](img/board.jpg)
-This is a caption describing the image above!
-
 # Schematics and Block Diagrams
 
 - Draw a block diagram showing how different components are connected together.
 - Draw an electrical schematic for any soldered components.
+
+# Materials
+
+| Item         | Source (URL) |
+| ------------ | ------------ |
+| 6V Servo motor  | https://www.digikey.com/en/products/detail/pololu-corporation/3425/10450114 |
+| et cetera | and so on and so on |
 
 # Narrative
 
@@ -23,12 +22,13 @@ This is a caption describing the image above!
 - Include any problems you encountered, and how you addressed them. 
 - This section should be at least ~500 words. Be reflective!
 
-# Materials
+# System Photos
 
-| Item         | Source (URL) |
-| ------------ | ------------ |
-| 6V Servo motor  | https://www.digikey.com/en/products/detail/pololu-corporation/3425/10450114 |
-| et cetera | and so on and so on |
+- Include photos that describe your system in the img directory.
+- Include a descriptive caption for each image.
+
+![Alt text (appears when hovering mouse over)](img/board.jpg)
+This is a caption describing the image above!
 
 # Code Description
 
