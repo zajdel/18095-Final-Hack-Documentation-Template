@@ -1,5 +1,5 @@
-# Project Overview
-Name(s):
+# Project Name Here
+Team Member(s):
 
 - Write up a paragraph or two that describes your final hack's objective, and all its sensors and actuators.
 
