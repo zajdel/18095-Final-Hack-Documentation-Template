@@ -6,7 +6,13 @@ Team Member(s):
 # Schematics and Block Diagrams
 
 - Draw a block diagram showing how different components are connected together.
-- Draw an electrical schematic for any soldered components.
+
+![Example block diagram](img/block_diagram.jpg)
+This is an example block diagram.
+
+- Draw an electrical schematic for any soldered or breadboarded circuits.
+![Example block diagram](img/lightsensor_schematic.jpg)
+This is a component-level schematic of a light sensor.
 
 # Materials
 
