@@ -5,7 +5,7 @@ Team Member(s):
 
 # System Photos
 
-- Include photos that describe your system.
+- Include photos that describe your system in the img directory.
 - Include a descriptive caption for each image.
 
 ![Alt text (appears when hovering mouse over)](img/board.jpg)
@@ -32,5 +32,6 @@ This is a caption describing the image above!
 
 # Code Description
 
-- Attach your code in the code folder. Include comments in the code that explain important functions.
-- Cite any sources you got help or code from
+- Attach your code in the code directory.
+- Include comments in the code that explain important functions.
+- Cite any sources you got help or code from.
