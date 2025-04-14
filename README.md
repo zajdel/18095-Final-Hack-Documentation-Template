@@ -1,2 +1,6 @@
-# 18095-Final-Hack-Documentation-Template
-# Student Names
+# Project Description
+Name(s):
+
+Write up a paragraph or two that introduces the idea of your project.
+
+# Code Description
