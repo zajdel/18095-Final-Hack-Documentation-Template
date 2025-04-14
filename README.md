@@ -8,11 +8,13 @@ Team Member(s):
 - Draw a block diagram showing how different components are connected together.
 
 ![Example block diagram](img/block_diagram.jpg)
+
 This is an example block diagram.
 
 - Draw an electrical schematic for any soldered or breadboarded circuits.
 
 ![Example schematic](img/lightsensor_schematic.jpg)
+
 This is a component-level schematic of a light sensor.
 
 # Materials
@@ -21,6 +23,8 @@ This is a component-level schematic of a light sensor.
 | ------------ | ------------ |
 | 6V Servo motor  | https://www.digikey.com/en/products/detail/pololu-corporation/3425/10450114 |
 | et cetera | and so on and so on |
+
+Additionally, please upload any design files for laser-cut or 3D-printed pieces to the parts directory.
 
 # Narrative
 
