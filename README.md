@@ -21,4 +21,5 @@ This section should be at least ~500 words. Be reflective!
 
 # Code Description
 
-Write up a descrition
+Attach your code in the code folder. Include comments in the code that explain important functions.
+Cite any sources you got the code from!
