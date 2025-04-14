@@ -25,6 +25,7 @@ Team Member(s):
 | Item         | Source (URL) |
 | ------------ | ------------ |
 | 6V Servo motor  | https://www.digikey.com/en/products/detail/pololu-corporation/3425/10450114 |
+| et cetera | and so on and so on |
 
 # Code Description
 
