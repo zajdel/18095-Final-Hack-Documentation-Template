@@ -8,7 +8,8 @@ Team Member(s):
 - Include photos that describe your system.
 - Include a descriptive caption for each image.
 
-![Alt text](img/board.jpg)
+![Alt text (appears when hovering mouse over)](img/board.jpg)
+This is a caption describing the image above!
 
 # Schematics and Block Diagrams
 
