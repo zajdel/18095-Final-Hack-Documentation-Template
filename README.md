@@ -11,7 +11,8 @@ Team Member(s):
 This is an example block diagram.
 
 - Draw an electrical schematic for any soldered or breadboarded circuits.
-![Example block diagram](img/lightsensor_schematic.jpg)
+
+![Example schematic](img/lightsensor_schematic.jpg)
 This is a component-level schematic of a light sensor.
 
 # Materials
