@@ -8,6 +8,8 @@ Team Member(s):
 - Include photos that describe your system.
 - Include a descriptive caption for each image.
 
+![](img/board1.jpg)
+
 # Schematics and Block Diagrams
 
 - Draw a block diagram showing how different components are connected together.
