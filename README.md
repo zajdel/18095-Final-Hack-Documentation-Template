@@ -20,6 +20,12 @@ Team Member(s):
 - Include any problems you encountered, and how you addressed them. 
 - This section should be at least ~500 words. Be reflective!
 
+# Materials
+
+| Item         | Source (URL) |
+| ------------ | ------------ |
+| 6V Servo motor  | https://www.digikey.com/en/products/detail/pololu-corporation/3425/10450114 |
+
 # Code Description
 
 - Attach your code in the code folder. Include comments in the code that explain important functions.
